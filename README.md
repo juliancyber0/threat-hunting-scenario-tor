@@ -136,7 +136,7 @@ DeviceNetworkEvents
 
 ### 6. File Creation - TOR Shopping List
 
-- **Timestamp:** `2024-11-08T22:27:19.7259964Z`
+- **Timestamp:** `2025-30-09T21:47:39.7259964Z`
 - **Event:** The user "threatjmalbino" created a file named `tor-shopping-list.txt` on the desktop, potentially indicating a list or notes related to their TOR browser activities.
 - **Action:** File creation detected.
 - **File Path:** `C:\Users\threatjmalbino\Desktop\tor-shopping-list.txt`
